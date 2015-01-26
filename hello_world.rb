@@ -1,0 +1,1 @@
+print “x\nxxx\nxxxxx\nxxxxxxx\nxxxxxxxxx"
